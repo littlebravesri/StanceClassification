@@ -1,1 +1,3 @@
 # StanceClassification
+
+Most social media analysis involve analysing and classififying Twitter tweets. Sentiment analysis is the classification task to determine if the given text, in our case a tweet, is positive, negative or neutral. It is used to understand the opinion of the author of that piece text or tweet. Sentiment analysis can be used for public opinion polling and recomendation systems. Stance classification is the task of classifying the tweet based on whether the tweet is For or Against a given target topic. It is independent of the opinion (positive/negative) of that text. Stance classsification can be used for information retrieval, text summarization, and textual entailment applications.
